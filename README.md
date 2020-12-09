@@ -21,4 +21,4 @@ html, css, PureJS, Node.js, MongoDB
 
 # 논문 링크
 
-[논문]:[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08750081]
+[논문][http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08750081]
