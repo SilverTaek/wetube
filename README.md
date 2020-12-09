@@ -18,5 +18,7 @@ html, css, PureJS, Node.js, MongoDB
 # 화면 예시
 <img src="https://user-images.githubusercontent.com/43171179/101597512-2351a700-3a3a-11eb-96bd-542988390973.png">
 <img src="https://user-images.githubusercontent.com/43171179/101597520-25b40100-3a3a-11eb-9ebd-2c5c03205c02.png">
+
 # 논문 링크
-[논문][http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08750081]
+
+[논문]:[http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08750081]
